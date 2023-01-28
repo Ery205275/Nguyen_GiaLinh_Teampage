@@ -1,5 +1,5 @@
 # Nguyen_GiaLinh_Teampage
-Design a team bio page. Creatively how this looks and feels is entirely up to you. Please note that this can be used as an intro for your presentations if you choose; however the focus of the assignment is using routes with Node and Express. 
+Design a team bio page. Use routes with Node and Express to display one page for each team member. The content can be static - no database, Vue or front-end JavaScript required. 
 
 # Members
 1. Nguyen Gia Linh
