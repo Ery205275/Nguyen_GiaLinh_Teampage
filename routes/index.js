@@ -12,9 +12,9 @@ const team = {
 
   Gia: {
     name: 'Gia',
-    bio: " Gia Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor, erat eget malesuada vehicula, magna magna tincidunt leo, euismod congue augue est a nulla.",
-    skills: 'html, CSS, fIGMA',
-    avatar: ''
+    bio: " As a Web designer/developer, I love to work with software and design companies and sharing the guiding principles and development plans for applications. My goal is to improve user interfaces and experiences, making it simpler for users to use the web, applications, and technology, removing obstacles to communication between end users, designers, and developers",
+    skills: 'HTML, CSS, Figma, Adobe, JavaScript, PHP, Vue.js, Node.js',
+    avatar: 'Gia.png'
   },
 
   Triue: {

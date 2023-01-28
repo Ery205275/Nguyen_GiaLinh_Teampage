@@ -12,5 +12,22 @@
     "hbs": "^4.2.0",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1"
-  }
+  },
+  "description": "Design a team bio page. Creatively how this looks and feels is entirely up to you. Please note that this can be used as an intro for your presentations if you choose; however the focus of the assignment is using routes with Node and Express. M",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ery205275/Nguyen_GiaLinh_Teampage.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "Gia"
+  ],
+  "author": "GIA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ery205275/Nguyen_GiaLinh_Teampage/issues"
+  },
+  "homepage": "https://github.com/Ery205275/Nguyen_GiaLinh_Teampage#readme"
 }
