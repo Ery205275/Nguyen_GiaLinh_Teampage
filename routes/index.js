@@ -17,11 +17,11 @@ const team = {
     avatar: ''
   },
 
-  Triue: {
-    name: 'Triue',
-    bio: " Triue Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor, erat eget malesuada vehicula, magna magna tincidunt leo, euismod congue augue est a nulla.",
-    skills: 'html,, figma',
-    avatar: ''
+  Trieu: {
+    name: 'Trieu (Aaron)',
+    bio: "Hello I'm Aaron,I'm currently studying Interactive Media Design at Fanshawe College, enjoy all creative work, brainstorm and build up ideas. Expect to reach to people as well as clients as a professional designer. As a graduated student from IDP3, I Learned many valuable experience in designing as well as creating news features, mockup and every digital content with the dept of necessary information. I also learn many ways to scope with customers and how to treat clients with general requirement.",
+    skills: 'Adobe Tools, HTML, JS, CSS, Node, Figma, Vue, C4D',
+    avatar: 'trieu.png'
   },
 
   Saroj: {
