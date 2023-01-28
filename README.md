@@ -14,5 +14,5 @@ Clone the repo to your desktop. This uses route with node and express so you'll 
 ## Usage
 Basic website use route with node and express to show information of each member of the team
 
-##License
+## License
 MIT License
