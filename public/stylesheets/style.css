@@ -1,7 +1,7 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Paprika&display=swap');
 /* General Styles */
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Paprika', cursive;
   margin: 0;
   padding: 0;
 }
@@ -15,7 +15,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: auto;
+  margin-bottom: 10px;
 }
 
 header nav {
@@ -43,10 +43,9 @@ header nav ul li a {
 
 /* Hero Section */
 #hero {
-  background-color: #fff;
   text-align: center;
   padding: 50px;
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 
 #hero h1 {
@@ -55,39 +54,63 @@ header nav ul li a {
 }
 
 #hero p {
+  
   font-size: 18px;
 }
 
 
 .team-section {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+  flex-wrap: nowrap;
+  justify-content: space-between;
   margin: auto;
 }
 
 .team-member {
-  width: 30%;
-  text-align: center;
-  margin: 1rem;
-  margin: auto;
+  display: flex;
+  flex-wrap: nowrap;
+  padding: 4rem 1rem;
+  flex-direction: row;
+  position: relative;
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  align-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  justify-content: space-between;
+  align-items: center;
+
 }
 
-.team-member img {
-  width: 100%;
+.team-image{
+  position: relative;
+  margin: 2rem;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  align-content: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+}
+
+.team-image img {
+  width: auto;
   border-radius: 50%;
   margin-bottom: 1rem;
+ 
 }
 
 .team-member-name {
-  font-size: 1.5rem;
-  margin-bottom: 0.5rem;
+  font-size: 2rem;
+  margin-bottom:1rem;
+
 }
 
 .team-member-bio {
   font-size: 1rem;
-  line-height: 1.5;
   margin-bottom: 1rem;
+  text-align: justify;
 }
 
 .social-links a {
@@ -109,13 +132,21 @@ header nav ul li a {
 @media only screen and (max-width: 768px) {
 
   body {
-    font-family: Arial, sans-serif;
+    font-family: 'Paprika', cursive;
     margin: auto;
     padding: 1rem;
   }
-  .team-member {
-    width: 100%;
-    
+  .team-member  {
+      display: flex;
+      flex-wrap: nowrap;
+      flex-direction: column;
+      position: relative;
+      margin-right: 5px;
+      align-content: center;
+      -webkit-box-align: center;
+      align-items: center;
+      justify-content: space-evenly;
+     
   }
 }
 
@@ -132,9 +163,18 @@ header nav ul li a {
   
   header nav ul li {
     margin: 10px 0;
+    
   }
-
-  .team-member {
-    width: 100%;
-    }
+  .team-member  {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    position: relative;
+    margin-right: 5px;
+    align-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    justify-content: space-evenly;
+   
+}
 }
