@@ -5,9 +5,9 @@ var router = express.Router();
 const team = {
   Bhavya: {
     name: 'Bhavya',
-    bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor, erat eget malesuada vehicula, magna magna tincidunt leo, euismod congue augue est a nulla.",
-    skills: 'html, CSS, fIGMA',
-    avatar: ''
+    bio: "Hi there! I'm a UX/UI designer with a focus on creating user-friendly and visually appealing interfaces. If you're interested in seeing some of my work, be sure to check out my portfolio website. I'd love to chat with you about how I can help bring your vision to life!",
+    skills: 'HTML, CSS, JS, ADOBE CREATIVE CLOUD, GPT3',
+    avatar: 'bhavya.png'
   },
 
   Gia: {
