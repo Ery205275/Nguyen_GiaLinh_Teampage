@@ -35,7 +35,7 @@ const team = {
     name: 'Aman',
     bio: "HI I am Aman Rabari. I am designer I like do design and creative stuff. I always try make things more different tha usual. I can also use different adobe softwares.",
     skills: 'CSS, fIGMA',
-    avatar: 'Aman.jpeg.jpg'
+    avatar: 'Aman.png'
   }
 
 
